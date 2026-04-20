@@ -38,7 +38,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/YasirAmmar55&show_icons=true&theme=tokyonight)
 
 ---
 
