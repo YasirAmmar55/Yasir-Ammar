@@ -35,17 +35,6 @@
 - 🔗 Live Demo: https://your-link  
 - 📂 Repo: https://github.com/your-username/portfolio  
 
----
-
-## 📊 GitHub Stats
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/YasirAmmar55&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?YasirAmmar55&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/yasir-ammar-80b964256/
